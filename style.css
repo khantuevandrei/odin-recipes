@@ -1,0 +1,13 @@
+body {
+    background-color: honeydew;
+}
+
+h1 {
+    text-align: center;
+}
+
+li {
+    margin: 10px auto;
+    width: fit-content;
+    font-size: 20px;
+}
